@@ -9,7 +9,7 @@ Ele faz parte de uma serie de projetos presentes no Curso da Coder de Flutter.
 
 ## **Desafios** desse projeto
 * Layout
-   *Primeiros contatos com Widgets visuais e náo visuais (column, row, card, containner, gridView).
+   * Primeiros contatos com Widgets visuais e náo visuais (column, row, card, containner, gridView).
 * Navegação
    * Foi ultilizado o conceito de rotas nomeadas e a passagem de informações entre telas
    * Na primeira tela =>
